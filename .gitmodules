@@ -1,0 +1,3 @@
+[submodule "react-collection"]
+	path = react-collection
+	url = https://github.com/thecodeprestige/react-collection
